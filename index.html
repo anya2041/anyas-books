@@ -33,3 +33,27 @@
         <!-- <img v-for="book in books" v-bind:id="book.Number" v-bind:src=" 'jpg/' + book.Number + '.jpg' " alt=""> -->
       </div>
     </div>
+    <div id="shelf-desktop">
+        <div>
+          OMAR'S BOOKS
+        </div>
+        <div id = "time">
+  
+        </div>
+        <div>
+          <div id="currently-reading" ref = "test">
+            CURRENTLY READING
+          </div>
+          <div id="reading-book">
+            {{books[books.length-1].Title}}
+          </div>
+        </div>
+      </div>
+      <div id="shelf-mobile">
+        <div>
+          OMAR'S BOOKS
+        </div>
+      </div>
+    </div>
+  </body>
+  
