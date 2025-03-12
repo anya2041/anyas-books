@@ -4,12 +4,12 @@
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OMAR'S BOOKS</title>
+    <title>ANYA'S BOOKS</title>
     <link rel="icon" href="ico/ico002.png" size="48 x 48">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="css/reset.css">
-    <link rel="stylesheet" href="css/omarsbooks.css">
-    <link rel="stylesheet" href="css/omarsbooksMobile.css">
+    <link rel="stylesheet" href="css/anyasbooks.css">
+    <link rel="stylesheet" href="css/anyasbooksMobile.css">
 
 </head>
 <body>
@@ -35,7 +35,7 @@
     </div>
     <div id="shelf-desktop">
         <div>
-          OMAR'S BOOKS
+          ANYA'S BOOKS
         </div>
         <div id = "time">
   
@@ -51,9 +51,26 @@
       </div>
       <div id="shelf-mobile">
         <div>
-          OMAR'S BOOKS
+          ANYA'S BOOKS
         </div>
       </div>
     </div>
   </body>
+    <!-- GET TIME FUNCTION -->
+  <script type="text/javascript">
+    getTheTime();
+    function getTheTime() {
+      var d = new Date();
+      var n = d.toLocaleTimeString();
+      document.getElementById("time").innerHTML = n;
+    }
+    setInterval(getTheTime, 1000);
+  </script>
+  <!-- END GET TIME FUNCTION -->
   
+  <!-- <script src="https://cdn.jsdelivr.net/npm/vue"></script> -->
+  <!-- <script src="js/books-images.js" charset="utf-8"></script> -->
+  <script src="js/books.js" charset="utf-8"></script>
+  <!-- <script src="js/books-vue.js" charset="utf-8"></script> -->
+  
+  </html>

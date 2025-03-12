@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Ultra-Regular';
+    src: url("../font/Ultra-Regular.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: 'Unkempt-Bold';
+    src: url("../font/Unkempt-Bold.ttf") format("truetype");
+  }
+  
+  @font-face {
+    font-family: 'Unkempt-Regular';
+    src: url("../font/Unkempt-Regular.ttf") format("truetype");
+  }
+  
+  body {
+    background-color: black;
+  }
+  
