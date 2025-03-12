@@ -11,3 +11,25 @@
     <link rel="stylesheet" href="css/omarsbooks.css">
     <link rel="stylesheet" href="css/omarsbooksMobile.css">
 
+</head>
+<body>
+  <div id="container">
+    <div id="description">
+      <div id="number">
+        (#{{books[value - 1].Number}})
+      </div>
+      <div id="title">
+        {{books[value - 1].Title}}
+      </div>
+      <div id="by">
+        by
+      </div>
+      <div id="author">
+        {{books[value - 1].Author}}
+      </div>
+    </div>
+    <div id="books-container">
+      <div id="books">
+        <!-- <img v-for="book in books" v-bind:id="book.Number" v-bind:src=" 'jpg/' + book.Number + '.jpg' " alt=""> -->
+      </div>
+    </div>
