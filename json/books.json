@@ -287,7 +287,7 @@
      },
     {
        "Number": 58,
-       "Title": "Afghanistan – Washington's Secret War",
+       "Title": "Afghanistan- Washington's Secret War",
        "Author": "Phillip Bonosky"
      },
        {
@@ -307,8 +307,18 @@
      },
      {
       "Number": 62,
+      "Title": "The Metamorphosis",
+      "Author": "Franz Kafka"
+    },
+    {
+      "Number": 63,
+      "Title": "Animal Farm",
+      "Author": "George Orwell"
+    },
+    {
+      "Number": 64,
       "Title": "White Nights",
       "Author": "Fyodor Dostoevsky"
-    }
+    } 
    ]
     
