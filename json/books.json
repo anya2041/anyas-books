@@ -181,7 +181,7 @@
      },
     {
        "Number": 37,
-       "Title": "Think Again",
+       "Title": "Think Again: How to Reason and Argue",
        "Author": "Walter S. Armstrong"
      },
     {
@@ -191,33 +191,33 @@
      },
     {
        "Number": 39,
-       "Title": "The Fire Next Time",
-       "Author": "James Baldwin"
+       "Title": "Around the world in 80 days",
+       "Author": "Jules Verne"
      },
     {
        "Number": 40,
-       "Title": "Software for Artists Book",
-       "Author": "Pioneer Works"
+       "Title": "Day to Day Economics",
+       "Author": "Satish Y. Deodhar"
      },
     {
        "Number": 41,
-       "Title": "Digital Fabrications: Designer Stories for a Software Based Planet",
-       "Author": "Galo Canizares"
+       "Title": "Lost Languages",
+       "Author": "Andrew Robinson"
      },
     {
        "Number": 42,
-       "Title": "Are.na Annual 2021",
-       "Author": "Are.na"
+       "Title": "Poor Economics",
+       "Author": "Abhijit V. Banerjee and Esther Duflo"
      },
     {
        "Number": 43,
-       "Title": "A history of Arab Graphic Design",
-       "Author": "Bahia Shehab & Haytham Nawar"
+       "Title": "Word Power Made Easy",
+       "Author": "Norman Lewis"
      },
     {
        "Number": 44,
-       "Title": "Full Scale False Scale",
-       "Author": "Experimental Jetset"
+       "Title": "Welcome to the Hyunam-Dong Bookshop",
+       "Author": "Hwang Bo-reum"
      },
        {
        "Number": 45,
@@ -226,176 +226,87 @@
      },
        {
        "Number": 46,
-       "Title": "The Parameters of our Cage",
-       "Author": "C. Fausto Cabrera & Alec Soth"
+       "Title": "Dark Forest",
+       "Author": "Cixin Liu"
      },
        {
        "Number": 47,
-       "Title": "Afghanistan 101",
-       "Author": "Ehsan M. Entezar"
+       "Title": "Death's End",
+       "Author": "Cixin Liu"
      },
-       {
+      
+     {
        "Number": 48,
-       "Title": "Venturing Permanence",
-       "Author": "gta Verlag"
-     },
-       {
-       "Number": 49,
-       "Title": "Dune",
-       "Author": "Frank Herbert"
-     },
-           {
-       "Number": 50,
-       "Title": "The Future of Transportation",
-       "Author": "SOM Thinkers"
-     },
-     {
-       "Number": 51,
-       "Title": "Islam Explained",
-       "Author": "Ahmad Rashid Salim"
-     },
-     {
-       "Number": 52,
-       "Title": "The Life of Muhammad",
-       "Author": "Ibn Ishaq"
-     },
-     {
-       "Number": 53,
        "Title": "Charlie and the Chocolate Factory",
        "Author": "Roald Dahl"
      },
      {
-       "Number": 54,
-       "Title": "Caps Lock",
-       "Author": "Ruben Pater"
-     },
-     {
-       "Number": 55,
-       "Title": "The Lives of Man",
-       "Author": "Imam Al-Hadad"
-     },
-     {
-       "Number": 56,
-       "Title": "Kabul Under Siege",
-       "Author": "Fayz Muhammad"
-     },
-     {
-       "Number": 57,
+       "Number": 49,
        "Title": "I Am a Cat",
        "Author": "Natsume Sōseki"
      },
      {
+       "Number": 50,
+       "Title": "All The Light We Cannot See",
+       "Author": "Anthony Doerr"
+     },
+     {
+       "Number": 51,
+       "Title": "A Little Life",
+       "Author": "Hanya Yanagihara"
+     },
+     {
+       "Number": 52,
+       "Title": "On Earth We're Briefly Gorgeous",
+       "Author": "Ocean Vuong"
+     },
+     {
+       "Number": 53,
+       "Title": "The Goldfinch",
+       "Author": "Donna Tartt"
+     },
+     {
+       "Number": 54,
+       "Title": "Babel",
+       "Author": "R.F Kuang"
+     },
+     {
+       "Number": 55,
+       "Title": "Fire and Blood",
+       "Author": "George R.R. Martin"
+     },
+     {
+       "Number": 56,
+       "Title": "A Knight of the Seven Kingdoms",
+       "Author": "George R.R. Martin"
+     },
+     {
+       "Number": 57,
+       "Title": "The Stranger",
+       "Author": "Albert Camus"
+     },
+    {
        "Number": 58,
-       "Title": "Embattled Saints",
-       "Author": "Kenneth P. Lizzio"
-     },
-     {
-       "Number": 59,
-       "Title": "West of Kabul, East of New York",
-       "Author": "Tamim Ansary"
-     },
-     {
-       "Number": 60,
-       "Title": "Arabic Typography",
-       "Author": "Huda Smitshuijzen AbiFarès"
-     },
-     {
-       "Number": 61,
-       "Title": "Virtually Islamic",
-       "Author": "Gary Bunt"
-     },
-     {
-       "Number": 62,
-       "Title": "Screenplay",
-       "Author": "Syd Field"
-     },
-     {
-       "Number": 63,
-       "Title": "The Haunting of Hajji Hotak",
-       "Author": "Jamil Jan Kochai"
-     },
-     {
-       "Number": 64,
-       "Title": "Al-Ghazali on Divine Predicates and their Properties",
-       "Author": "Abdu-r-rahman Abu Zayd"
-     },
-     {
-       "Number": 65,
-       "Title": "The Green Imperative",
-       "Author": "Victor Papanek"
-     },
-       {
-       "Number": 66,
-       "Title": "Palestine + 100",
-       "Author": "Edited by Basma Ghalayini"
-     },
-       {
-       "Number": 67,
-       "Title": "The Palestine Laboratory",
-       "Author": "Antony Loewenstein"
-     },
-       {
-       "Number": 68,
-       "Title": "Oriental Rugs in Color",
-       "Author": "Preben Liebetrau"
-     },
-       {
-       "Number": 69,
-       "Title": "In the Mystic Footsteps of Saints",
-       "Author": "Shaykh Nazim"
-     },
-       {
-       "Number": 70,
-       "Title": "The Mysteries of Purity",
-       "Author": "Nabih Amin Faris"
-     },
-       {
-       "Number": 71,
-       "Title": "Material Reform",
-       "Author": "Material Cultures"
-     },
-       {
-       "Number": 72,
-       "Title": "Roadside Geology",
-       "Author": "Alt and Hyndman"
-     },
-     {
-       "Number": 73,
-       "Title": "Afghanistan",
-       "Author": "Wrye and Wrye"
-     },
-       {
-       "Number": 74,
-       "Title": "The Book of Ecstasy",
-       "Author": "Arifi of Herat"
-     },
-     {
-       "Number": 75,
-       "Title": "Braiding Sweetgrass",
-       "Author": "Robin Wall Kimmerer"
-     },
-       {
-       "Number": 76,
        "Title": "Afghanistan – Washington's Secret War",
        "Author": "Phillip Bonosky"
      },
        {
-       "Number": 77,
+       "Number": 59,
        "Title": "After Dark",
        "Author": "Haruki Murakami"
      },
      {
-       "Number": 78,
+       "Number": 60,
        "Title": "Days at the Morisaki Bookshop",
        "Author": "Satoshi Yagisawa"
      },
        {
-       "Number": 79,
+       "Number": 61,
        "Title": "A Game of Thrones",
        "Author": "George R.R. Martin"
      },
      {
-      "Number": 80,
+      "Number": 62,
       "Title": "White Nights",
       "Author": "Fyodor Dostoevsky"
     }
