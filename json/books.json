@@ -1,7 +1,7 @@
 [
     {
       "Number": 1,
-      "Title": "Fantastic Beasts and Where to Find Them",
+      "Title": "A Journey through History of Magic",
       "Author": "J.K Rowling"
     },
     {
@@ -16,23 +16,23 @@
     },
     {
       "Number": 4,
-      "Title": "A Beautiful Boy",
-      "Author": "David Sheff"
+      "Title": "Universe in a Box",
+      "Author": "Andrew Pontzen"
     },
     {
       "Number": 5,
-      "Title": "One Day",
-      "Author": "David Nicholls"
+      "Title": "Tomorrow, And Tomorrow, And Tomorrow ",
+      "Author": "Gabrielle Zevin"
     },
     {
       "Number": 6,
-      "Title": "Daisy Jones and the Six",
-      "Author": "Taylor Jenkins Reid"
+      "Title": "Lessons in Chemistry",
+      "Author": "Bonnie Garmus"
     },
     {
       "Number": 7,
-      "Title": "1984",
-      "Author": "George Orwell"
+      "Title": "Time Traveller's Wife",
+      "Author": "Audrey Niffenegger"
     },
     {
       "Number": 8,
@@ -41,33 +41,33 @@
     },
     {
       "Number": 9,
-      "Title": "Permanent Record",
-      "Author": "Edward Snowden"
+      "Title": "Stories of Your Life and Others",
+      "Author": "Ted Chiang"
     },
     {
       "Number": 10,
-      "Title": "The Age of Surveillance Capitalism",
-      "Author": "Shoshana Zuboff"
+      "Title": "The Bell Jar",
+      "Author": "Sylvia Plath"
     },
     {
       "Number": 11,
-      "Title": "Never Let Me Go",
-      "Author": "Kazuo Ishiguro"
+      "Title": "Frankenstein",
+      "Author": "Mary Shelly"
     },
     {
       "Number": 12,
-      "Title": "Men without Women",
-      "Author": "Haruki Murakami"
+      "Title": "Learnig how to fly ",
+      "Author": "A.P.J Abdul Kalam"
     },
     {
       "Number": 13,
-      "Title": "The Stranger",
-      "Author": "Albert Camus"
+      "Title": "Circe",
+      "Author": "Madeline Miller"
     },
     {
       "Number": 14,
-      "Title": "The Kite Runner",
-      "Author": "Khaled Hosseini"
+      "Title": "Song of Achilles",
+      "Author": "Madeline Miller"
     },
     {
       "Number": 15,
@@ -76,18 +76,18 @@
     },
     {
       "Number": 16,
-      "Title": "Neuromancer",
-      "Author": "William Gibson"
+      "Title": "Dracula",
+      "Author": "Bram Stoker"
     },
     {
       "Number": 17,
-      "Title": "Animal Farm",
-      "Author": "George Orwell"
+      "Title": "Quantum Computing from Colossus to Qubits",
+      "Author": "John Gribbin"
     },
     {
       "Number": 18,
-      "Title": "11.22.63",
-      "Author": "Stephen King"
+      "Title": "Kim Jiyound Born 1982",
+      "Author": "Cho Nam-joo"
     },
     {
       "Number": 19,
@@ -96,18 +96,18 @@
     },
     {
       "Number": 20,
-      "Title": "The Queen's Gambit",
-      "Author": "Walter Tevis"
+      "Title": "The Communist Manifesto",
+      "Author": "Karl Marx and Friedrich Engels"
     },
     {
       "Number": 21,
-      "Title": "Paper Towns",
-      "Author": "John Green"
+      "Title": "Tinker Tailor Soldier Spy",
+      "Author": "John le Carre"
     },
     {
       "Number": 22,
-      "Title": "The Color Purple",
-      "Author": "Alcie Walker"
+      "Title": "Convenience Store Women",
+      "Author": "Sayaka Murata"
     },
     {
       "Number": 23,
@@ -116,8 +116,8 @@
     },
     {
       "Number": 24,
-      "Title": "A Gentleman in Moscow",
-      "Author": "Amor Towles"
+      "Title": "Pride and Predjudice",
+      "Author": "Jane Austen"
     },
     {
       "Number": 25,
@@ -151,13 +151,13 @@
     },
     {
       "Number": 31,
-      "Title": "A *New* Program for Graphic Design",
-      "Author": "David Reinfurt"
+      "Title": "The Elegant Universe",
+      "Author": "Brian Greene"
     },
     {
       "Number": 32,
-      "Title": "100 Chairs in 100 Days and its 100 Ways",
-      "Author": "Martino Gamper"
+      "Title": "The Code Book",
+      "Author": "Simon Singh"
     },
     {
       "Number": 33,
@@ -176,18 +176,18 @@
     },
     {
        "Number": 36,
-       "Title": "Arrow of God",
-       "Author": "Chinua Achebe"
+       "Title": "Thousand Splendid Suns",
+       "Author": "Khaled Hosseini"
      },
     {
        "Number": 37,
-       "Title": "The Stars My Destination",
-       "Author": "Alfred Bester"
+       "Title": "Think Again",
+       "Author": "Walter S. Armstrong"
      },
     {
        "Number": 38,
-       "Title": "The Autobiography of Malcolm X",
-       "Author": "As Told to Alex Haley"
+       "Title": "The 48 Laws of Power",
+       "Author": "Robert Greene"
      },
     {
        "Number": 39,
