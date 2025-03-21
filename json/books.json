@@ -11,8 +11,8 @@
     },
     {
       "Number": 3,
-      "Title": "Atonement",
-      "Author": "Ian McEwan"
+      "Title": "Percy Jackson: Graphic Novel",
+      "Author": "Rick Riordan"
     },
     {
       "Number": 4,
@@ -121,33 +121,33 @@
     },
     {
       "Number": 25,
-      "Title": "Dark Matter",
-      "Author": "Blake Crouch"
+      "Title": "Dune",
+      "Author": "Frank Herbert"
     },
     {
       "Number": 26,
-      "Title": "East of Eden",
-      "Author": "John Steinback"
+      "Title": "Dune Messiah",
+      "Author": "Frank Herbert"
     },
     {
       "Number": 27,
-      "Title": "Lost Languages",
-      "Author": "Andrew Robinson"
+      "Title": "Children of Dune",
+      "Author": "Frank Herbert"
     },
     {
       "Number": 28,
-      "Title": "Little Women",
-      "Author": "Louisa May Alcott"
+      "Title": "God Emperor Of Dune",
+      "Author": "Frank Herbert"
     },
     {
       "Number": 29,
-      "Title": "The Hunger Games Trilogy",
-      "Author": "Suzannne Collins"
+      "Title": "Heretics of Dune",
+      "Author": "Frank Herbert"
     },
     {
       "Number": 30,
-      "Title": "Sundry Modernism",
-      "Author": "Oraib Toukan"
+      "Title": "Chapter House Dune",
+      "Author": "Frank Herbert"
     },
     {
       "Number": 31,
@@ -166,8 +166,8 @@
     },
     {
       "Number": 34,
-      "Title": "Decolonizing Wealth",
-      "Author": "Edgar Villaneuva"
+      "Title": "Three-Body Problem",
+      "Author": "Cixin Liu"
     },
     {
       "Number": 35,
@@ -381,13 +381,13 @@
      },
        {
        "Number": 77,
-       "Title": "Architecturally Speaking",
-       "Author": "Eugene Raskin"
+       "Title": "After Dark",
+       "Author": "Haruki Murakami"
      },
      {
        "Number": 78,
-       "Title": "Children of Dune",
-       "Author": "Frank Herbert"
+       "Title": "",
+       "Author": ""
      },
        {
        "Number": 79,
